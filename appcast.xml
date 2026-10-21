@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Pasty</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Wed, 21 Oct 2026 04:29:38 +0000</pubDate>
+            <link>https://danielyan.github.io/pasty-releases/</link>
+            <sparkle:fullReleaseNotesLink>https://danielyan.github.io/pasty-releases/</sparkle:fullReleaseNotesLink>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Pasty 0.1.0</h2>
+<pre>
+Pasty 0.1.0 — first release.
+
+- Double-tap ⌃ to open a terminal-style compose box; ⌘↩ copies the text and closes it.
+- Double-tap ⌥ to open it with the clipboard contents, ready to edit.
+- Esc closes without copying; the text is kept for next time.
+- Settings in ~/.config/pasty/config.json (Settings… in the menu).
+- Double-tap shortcuts need Input Monitoring permission; Pasty asks on first launch.
+- Updates itself through Sparkle.
+</pre>
+]]></description>
+            <enclosure url="https://danielyan.github.io/pasty-releases/Pasty-0.1.0.zip" length="1251487" type="application/octet-stream" sparkle:edSignature="uCkq4kG8b4iSYaEEKrAq2Y6H1kcYv2QosOIFJVORN9aneO43w1vYjS042Ux4iqqgpe0RnYzC1bsQntn4cgvSCw=="/>
+        </item>
+    </channel>
+</rss>

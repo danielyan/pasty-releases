@@ -21,6 +21,10 @@ Served over GitHub Pages at <https://danielyan.github.io/pasty-releases/>.
 
 ## Installing
 
+<!-- download:begin — rewritten by the release workflow -->
+**[Download Pasty 0.1.0](https://danielyan.github.io/pasty-releases/Pasty-0.1.0.zip)** — macOS 14 or later.
+<!-- download:end -->
+
 Download the newest `Pasty-*.zip`, unzip it, and move `Pasty.app` to
 `/Applications`. The app updates itself after that — Pasty checks this feed on
 a schedule, and on demand from **Check for Updates…** in its menu.
